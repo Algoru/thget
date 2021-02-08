@@ -3,7 +3,7 @@ Download content from 4chan threads using this CLI tool.
 
 # Installing
 1. Clone it.
-2. Compile it with `cargo build --prod`
+2. Compile it with `cargo build --release`
 3. Move binary to wherever you like.
 4. Add location where you moved thget binary to your PATH env variable.
 5. Enjoy it.
